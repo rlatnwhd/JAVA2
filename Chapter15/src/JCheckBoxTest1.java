@@ -34,7 +34,7 @@ class JCheckBox1 extends JFrame implements ItemListener {
 		language4.addItemListener(this);
 		
 		// 컨테이너 설정
-		setTitle("Image Button Test1");
+		setTitle("CheckBox Test1");
 		setSize(300, 100);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setVisible(true);
